@@ -2918,7 +2918,7 @@ class CfgExileArsenal
 	class hlc_m249_pip2								{ quality = 3; price = 32500; }
 	class hlc_m249_pip3								{ quality = 3; price = 32500; }
 	class hlc_m249_pip4								{ quality = 3; price = 32500; }
-	class hlc_lmg_mk48								{ quality = 3; price = 40000; }
+	//class hlc_lmg_mk48								{ quality = 3; price = 40000; }
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// HLC SAW Ammo
@@ -6786,7 +6786,7 @@ class CfgTraderCategories
 			"hlc_m249_pip2",
 			"hlc_m249_pip3",
 			"hlc_m249_pip4",
-			"hlc_lmg_mk48"
+			//"hlc_lmg_mk48"
 		};
 	};
 	
