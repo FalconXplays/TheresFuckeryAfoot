@@ -1,4 +1,4 @@
-# TheresFuckeryAfoot
+# Theres Fuckery Afoot
 ### TFA related content.
 
 *Required content:*
