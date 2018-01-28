@@ -1366,8 +1366,8 @@ class Markers
 					text = "";
 					type = "ExileTraderZoneIcon";
 		};
+	};
 };
-
 class Intro
 {
 	addOns[]=
