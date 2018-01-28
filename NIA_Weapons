@@ -1,0 +1,55 @@
+NIA Weapons & Magazines
+
+// M60E4
+
+hlc_lmg_M60E4		           - M60E4
+hlc_100Rnd_762x51_B_M60E4	 - 100 Round magazine of 7.62x51mm Ball Rounds (i.e, standard bullets)
+hlc_100Rnd_762x51_T_M60E4	 - 100 Round magazine of 7.62x51mm Tracer Rounds
+hlc_100Rnd_762x51_M_M60E4	 - 100 Round magazine of 7.62x51mm Mixed at a ratio of 1 Tracer for every 2 Standard Ball rounds
+
+// AK Pack
+
+// HLC_AK_ammobox		- Ammo box containing all this.
+
+hlc_rifle_ak74		 - AK74
+hlc_rifle_aks74		- AKS74
+hlc_rifle_aks74u		- AKS74U
+hlc_rifle_ak47		- AK47
+hlc_rifle_akm		-AKM
+hlc_rifle_rpk		-RPK
+hlc_rifle_ak12		-AK12
+hlc_rifle_akmgl		-AKM+GP25
+hlc_rifle_aks74_GL		-AKS74+GP30 (Export Variant)
+
+Attachments
+
+HLC_Optic_PSO1		- PSO1 Sniper Optic
+HLC_Optic_1p29		- 1P29 Rifle Combat Optic
+
+hlc_optic_kobra		- Kobra Collimator Sight
+hlc_optic_goshawk		- Goshawk Thermal Sight
+
+hlc_muzzle_545SUP_AK	- PBS4 Suppressor (5.45x39)
+hlc_muzzle_762SUP_AK	- PBS1 Suppressor (7.62x39)
+
+Magazines
+
+hlc_30Rnd_545x39_B_AK	 - 30 Round magazine of 5.45x39mm Ball Rounds (i.e, standard bullets)
+hlc_30Rnd_545x39_T_AK	 - 30 Round magazine of 5.45x39mm Tracer Rounds
+hlc_30Rnd_545x39_EP_AK	 - 30 Round magazine of 5.45x39mm Enhanced Performance Rounds 
+
+hlc_30Rnd_762x39_b_ak	 - 30 Round magazine of 7.62x39mm Ball Rounds (i.e, standard bullets)
+hlc_30Rnd_762x39_t_ak	 - 30 Round magazine of 7.62x39mm Tracer Rounds
+
+hlc_45Rnd_762x39_t_rpk	 - 45 Round magazine of 7.62x39mm Tracer Rounds
+hlc_45Rnd_762x39_m_rpk	 - 45 Round magazine of 7.62x39mm Mixed at a ratio of 1 Tracer for every 2 Standard Ball rounds
+hlc_45Rnd_545x39_t_rpk	 - 45 Round magazine of 5.45x39mm Mixed at a ratio of 1 Tracer for every 2 Standard Ball rounds
+
+hlc_VOG25_AK		- HE Round for the GP25 and GP30
+
+hlc_GRD_White		- Smoke Rounds for the GP25 and GP30
+hlc_GRD_red
+hlc_GRD_green
+hlc_GRD_blue
+hlc_GRD_orange
+hlc_GRD_purple
