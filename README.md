@@ -15,8 +15,4 @@
 
 6. [CBA](https://github.com/CBATeam/CBA_A3 "CBA github")
 
-<<<<<<< HEAD
 7. [Exile Mod](http://www.exilemod.com/ "Exile Mod homepage")
-=======
-7. [Exile Mod](http://www.exilemod.com/ "Exile Mod homepage")
->>>>>>> 3667f6b9d85c5d5f7253395784c9cad211988280
