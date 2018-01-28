@@ -1048,6 +1048,8 @@ class Mission
 
 class Markers
 {
+	items = 28;
+	
 		class Item0
 		{
 					dataType = "Marker";
@@ -1364,7 +1366,6 @@ class Markers
 					text = "";
 					type = "ExileTraderZoneIcon";
 		};
-items = 28;
 };
 
 class Intro
