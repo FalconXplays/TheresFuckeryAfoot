@@ -1045,326 +1045,290 @@ class Mission
 			};
 		};
 	};
+	class Markers
+	{
+		items=26;
 
-class Markers
-{
-	items = 28;
-	
 		class Item0
 		{
-					dataType = "Marker";
-					position[] = {21028.4, 0, 14758.6};
-					name = "ExileMarker1";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={3874.3633,18.125629,13280.79};
+			name="SpawnKavala";
+			text="Kavala";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
 		class Item1
 		{
-					dataType = "Marker";
-					position[] = {21028.4, 0, 14758.6};
-					name = "ExileMarker2";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={3874.3633,18.125629,13280.79};
+			name="SpawnKavalaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
 		class Item2
 		{
-					dataType = "Marker";
-					position[] = {21000.5, 0, 7075.06};
-					name = "ExileMarker3";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={9926.5293,12.364729,12083.253};
+			name="SpawnZaros";
+			text="Zaros";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
 		class Item3
 		{
-					dataType = "Marker";
-					position[] = {21000.5, 0, 7075.06};
-					name = "ExileMarker4";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={9926.5293,12.364729,12083.253};
+			name="SpawnZarosIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
 		class Item4
 		{
-					dataType = "Marker";
-					position[] = {25713.3, 0, 21329.6};
-					name = "ExileMarker5";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={20978.369,27.78056,7045.6055};
+			name="SpawnSelekano";
+			text="Selekano";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
 		class Item5
 		{
-					dataType = "Marker";
-					position[] = {25713.3, 0, 21329.6};
-					name = "ExileMarker6";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={20978.369,27.78056,7045.6055};
+			name="SpawnSelekanoIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
+
+
 		class Item6
 		{
-					dataType = "Marker";
-					position[] = {8612.53, 0, 18272.3};
-					name = "ExileMarker7";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={21028.4, 0, 14758.6};
+			name="SpawnPrygos";
+			text="Limni";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
+
 		class Item7
 		{
-					dataType = "Marker";
-					position[] = {8612.53, 0, 18272.3};
-					name = "ExileMarker8";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={21028.4, 0, 14758.6};
+			name="SpawnPrygosIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
 		class Item8
 		{
-					dataType = "Marker";
-					position[] = {21000.5, 0, 7075.06};
-					name = "ExileMarker9";
-					text = "Selekano";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 500;
-					b = 500;
-					drawBorder = 1;
+			position[]={25713.313,20.344301,21329.576};
+			name="SpawnSofia";
+			text="Sofia";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
 		class Item9
 		{
-					dataType = "Marker";
-					position[] = {21000.5, 0, 7075.06};
-					name = "ExileMarker10";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={25713.313,20.344301,21329.576};
+			name="SpawnSofiaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
+
 		class Item10
 		{
-					dataType = "Marker";
-					position[] = {25713.3, 0, 21329.6};
-					name = "ExileMarker11";
-					text = "Sofia";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 500;
-					b = 500;
-					drawBorder = 1;
+			position[]={8612.5283,180.58038,18272.271};
+			name="SpawnSyrta";
+			text="Syrta";
+			type="ExileSpawnZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=500;
+			b=500;
+			drawBorder=1;
 		};
 		class Item11
 		{
-					dataType = "Marker";
-					position[] = {25713.3, 0, 21329.6};
-					name = "ExileMarker12";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={8612.5283,180.58038,18272.271};
+			name="SpawnSyrtaIcon";
+			text="";
+			type="ExileSpawnZoneIcon";
 		};
+
+
 		class Item12
 		{
-					dataType = "Marker";
-					position[] = {8612.53, 0, 18272.3};
-					name = "ExileMarker13";
-					text = "Syrta";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 500;
-					b = 500;
-					drawBorder = 1;
+			position[]={14599.966,22.349989,16797.193};
+			name="MafiaTraderCity";
+			text="Mafia";
+			type="ExileTraderZone";
+			markerType="ELLIPSE";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
 		};
 		class Item13
 		{
-					dataType = "Marker";
-					position[] = {8612.53, 0, 18272.3};
-					name = "ExileMarker14";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={14599.966,22.349989,16797.193};
+			name="TraderCityMarkerIcon";
+			text="";
+			type="ExileTraderZoneIcon";
 		};
+
 		class Item14
 		{
-					dataType = "Marker";
-					position[] = {21028.4, 0, 14758.6};
-					name = "ExileMarker15";
-					text = "Limni";
-					markerType = "ELLIPSE";
-					type = "ExileSpawnZone";
-					colorName = "ColorBlack";
-					alpha = 0;
-					fillName = "Border";
-					a = 500;
-					b = 500;
-					drawBorder = 1;
+			position[]={23334.605,4.0095582,24188.938};
+			name="TraderZoneSilderas";
+			text="Trader";
+			markerType="ELLIPSE";
+			type="ExileTraderZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
 		};
 		class Item15
 		{
-					dataType = "Marker";
-					position[] = {21028.4, 0, 14758.6};
-					name = "ExileMarker16";
-					text = "";
-					type = "ExileSpawnZoneIcon";
+			position[]={23334.605,4.0095582,24188.938};
+			name="TraderZoneSilderasIcon";
+			text="";
+			type="ExileTraderZoneIcon";
 		};
+
 		class Item16
 		{
-					dataType = "Marker";
-					position[] = {14600, 0, 16797.2};
-					name = "ExileMarker17";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={2998.0603,3.7756021,18175.479};
+			name="TraderZoneFolia";
+			text="Trader";
+			markerType="ELLIPSE";
+			type="ExileTraderZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=175;
+			b=175;
+			drawBorder=1;
 		};
 		class Item17
 		{
-					dataType = "Marker";
-					position[] = {14600, 0, 16797.2};
-					name = "ExileMarker18";
-					text = "";
-					type = "ExileTraderZoneIcon";
+			position[]={2998.0603,3.7756021,18175.479};
+			name="TraderZoneFoliaIcon";
+			text="";
+			type="ExileTraderZoneIcon";
 		};
+
+
 		class Item18
 		{
-					dataType = "Marker";
-					position[] = {14600, 0, 16797.2};
-					name = "ExileMarker19";
-					text = "New Haven";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 175;
-					b = 175;
-					drawBorder = 1;
+			position[]={14354.0,0,18960.1};
+			name="ConcreteMixerZoneAthira";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=750;
+			b=750;
+			drawBorder=1;
 		};
 		class Item19
 		{
-					dataType = "Marker";
-					position[] = {14600, 0, 16797.2};
-					name = "ExileMarker20";
-					text = "";
-					type = "ExileTraderZoneIcon";
+			position[]={14354.0,0,18960.1};
+			name="ConcreteMixerZoneAthiraIcon";
+			text="";
+			type="ExileConcreteMixerZoneIcon";
 		};
+
+
 		class Item20
 		{
-					dataType = "Marker";
-					position[] = {15446.1, 0, 15748};
-					name = "ExileMarker21";
-					text = "Boat Trader";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 100;
-					b = 100;
-					drawBorder = 1;
+			position[]={18309.4,0,15575.0};
+			name="ConcreteMixerZoneCharkia";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=750;
+			b=750;
+			drawBorder=1;
 		};
 		class Item21
 		{
-					dataType = "Marker";
-					position[] = {15446.1, 0, 15748};
-					name = "ExileMarker22";
-					text = "";
-					type = "ExileBoatTraderIcon";
+			position[]={18309.4,0,15575.0};
+			name="ConcreteMixerZoneCharkiaIcon";
+			text="";
+			type="ExileConcreteMixerZoneIcon";
 		};
+
 		class Item22
 		{
-					dataType = "Marker";
-					position[] = {15446.1, 0, 15748};
-					name = "ExileMarker23";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
+			position[]={11391.2,0,14259.5};
+			name="ConcreteMixerZoneAlikampos";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=750;
+			b=750;
+			drawBorder=1;
 		};
 		class Item23
 		{
-					dataType = "Marker";
-					position[] = {15446.1, 0, 15748};
-					name = "ExileMarker24";
-					text = "";
-					type = "ExileBoatTraderIcon";
+			position[]={11391.2,0,14259.5};
+			name="ConcreteMixerZoneAlikamposIcon";
+			text="";
+			type="ExileConcreteMixerZoneIcon";
 		};
+
+
+
 		class Item24
 		{
-					dataType = "Marker";
-					position[] = {10798.3, 0, 10858.5};
-					name = "ExileMarker25";
-					text = "Hornet's Nest Trader";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 25;
-					b = 25;
-					drawBorder = 1;
+			position[]={21845.1,0,20977.6};
+			name="ContaminatedZoneGhostHotel";
+			text="Contaminated Zone";
+			markerType="ELLIPSE";
+			type="ExileContaminatedZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=400;
+			b=400;
+			drawBorder=1;
 		};
 		class Item25
 		{
-					dataType = "Marker";
-					position[] = {10798.3, 0, 10858.5};
-					name = "ExileMarker26";
-					text = "";
-					type = "ExileTraderZoneIcon";
-		};
-		class Item26
-		{
-					dataType = "Marker";
-					position[] = {10798.3, 0, 10858.5};
-					name = "ExileMarker27";
-					text = "";
-					markerType = "ELLIPSE";
-					type = "ExileTraderZone";
-					colorName = "ColorBlack";
-					fillName = "Border";
-					a = 1;
-					b = 1;
-					drawBorder = 1;
-		};
-		class Item27
-		{
-					dataType = "Marker";
-					position[] = {10798.3, 0, 10858.5};
-					name = "ExileMarker28";
-					text = "";
-					type = "ExileTraderZoneIcon";
+			position[]={21845.1,0,20977.6};
+			name="ContaminatedZoneGhostHotelIcon";
+			text="";
+			type="ExileContaminatedZoneIcon";
 		};
 	};
 };
