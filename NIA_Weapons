@@ -439,3 +439,78 @@ NIA Weapons & Magazines
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_5rnd_3006_1903
+
+
+
+
+
+
+
+// PISTOL UPDATE
+
+Classnames
+============
+hlc_pistol_P226WestGerman SIG-Sauer P226 (Orig. West-German Run). 9x19mmNATO
+hlc_pistol_P226US - SIG-Sauer P226 (Initial Exeter Production). 9x19mmNATO
+hlc_pistol_P226R - SIG-Sauer P226R (Mid-2000s-Current Production). 9x19mmNATO
+hlc_pistol_P226R_Elite - SIG-Sauer P226R Elite (Mid-2000s-Current Production, Lengthened Beavertail). 9x19mmNATO
+hlc_pistol_P226R_Combat SIG-Sauer P226R Combat (Mid-2000s-Current Production, Threaded Barrel). 9x19mmNATO
+hlc_pistol_Mk25 - Mk.25 Mod.0 (Mid-2000s-Current Production, as adopted by US Navy). 9x19mmNATO
+hlc_pistol_Mk25D - Sig-Sauer USA Mk25D (Commercial reproduction, Sand/Tan coat). 9x19mmNATO
+hlc_Pistol_mk25RX - Sig-Sauer USA Mk25D (Commercial reproduction, Sand/Tan coat, Romeo-1 RDS and Threaded Barrel). 9x19mmNATO
+hlc_pistol_P226R_40 - SIG-Sauer P226R (Mid-2000s-Current Production). .40 S&W
+hlc_pistol_P226R_40Elite SIG-Sauer P226R Elite (Mid-2000s-Current Production, Lengthened Beavertail). .40 S&W
+hlc_pistol_P226R_40Combat - SIG-Sauer P226R Combat (Mid-2000s-Current Production, Threaded Barrel). .40 S&W
+hlc_pistol_P226R_40Enox - SIGArms P226R Enox (Late-2000s Limited-Sale Custom). .40 S&W
+
+hlc_Pistol_P228 - SIG-Sauer P228 (Orig. West-German Run). 9x19mmNATO
+hlc_Pistol_M11 - " " " M11 (Orig. West-German Run,US DOD Markings). 9x19mmNATO
+hlc_pistol_P229R - SIG-Sauer P229R (Mid-2000s-Current Production). 9x19mmNATO
+hlc_pistol_P229R_Combat - SIG-Sauer P229R Combat (Mid-2000s-Current Production,Threaded Barrel). 9x19mmNATO
+hlc_Pistol_M11A1 - Sig-Sauer USA M11A1 (Commercial reproduction). 9x19mmNATO
+hlc_Pistol_M11A1D - Sig-Sauer USA M11A1D (Commercial reproduction,Sand/Tan finish). 9x19mmNATO
+hlc_pistol_P229R_Elite - SIG-Sauer P229R Elite (Late-2000s-Current Production, Lengthened Beavertail). 9x19mmNATO
+hlc_pistol_P229R_40 - SIG-Sauer P229R (Mid-2000s-Current Production). .40 S&W
+hlc_pistol_P229R_40Combat - SIG-Sauer P229R Combat (Mid-2000s-Current Production,Threaded Barrel). .40 S&W
+hlc_pistol_P229R_40Elite - SIG-Sauer P229R Elite (Mid-2000s-Current Production, Lengthened Beavertail). .40 S&W
+hlc_pistol_P229R_40Enox - SIGArms P229R Enox (Late-2000s Limited-Sale Custom). .40 S&W
+hlc_pistol_P229R_357 - SIG-Sauer P229R (Mid-2000s-Current Production). .357 SIG
+hlc_pistol_P229R_357Combat - SIG-Sauer P229R Combat (Mid-2000s-Current Production,Threaded Barrel). .357 SIG
+hlc_pistol_P229R_357Elite - SIG-Sauer P229R Elite (Mid-2000s-Current Production, Lengthened Beavertail). ..357 SIG
+hlc_pistol_P229R_357Stainless SIG-Sauer P229R Stainless (Stainless-Steel Slide, Nickel Finish). .357 SIG
+hlc_pistol_P226R_357 - SIG-Sauer P226R (Mid-2000s-Current Production). .357 SIG
+hlc_pistol_P226R_357Combat - SIG-Sauer P226R Combat (Mid-2000s-Current Production,Threaded Barrel). .357 SIG
+hlc_pistol_P226R_357Elite - SIG-Sauer P226R Elite (Mid-2000s-Current Production, Lengthened Beavertail). ..357 SIG
+hlc_pistol_P226R_357Stainless SIG-Sauer P226R Stainless (Stainless-Steel Slide, Nickel Finish). .357 SIG
+!BONUS!
+hlc_pistol_P239 - SIG-Sauer P239 (Sub-compact). 9x19mmNATO
+hlc_pistol_P239_40 - SIG-Sauer P239 (Sub-compact). .40 S&W
+hlc_pistol_P239_357 - SIG-Sauer P239 (Sub-compact). .357 SIG
+
+
+hlc_15Rnd_9x19_B_P226 - 15 Round P226 magazine of 9x19mm M882 Ball
+hlc_15Rnd_9x19_JHP_P226 - 15 Round P226 magazine of 9x19mm Mk243 Mod 0 JHP
+hlc_15Rnd_9x19_SD_P226 - 15 Round P226 magazine of 9x19mm Subsonic FMJ
+hlc_12Rnd_40SW_B_P226 - 12 Round P226 magazine of .40 S&W Mk309 Mod 0 Ball
+hlc_12Rnd_40SW_JHP_P226 - 12 Round P226 magazine of .40 S&W Mk308 Mod 0 JHP
+hlc_12Rnd_40SW_SD_P226 - 12 Round P226 magazine of .40 S&W JHP Subsonic
+hlc_12Rnd_357SIG_B_P226 - 12 Round P226 magazine of .357SIG FMJ-FN
+hlc_12Rnd_357SIG_JHP_P226 12 Round P226 magazine of .357SIG JHP
+
+hlc_13Rnd_9x19_B_P228 - 13 Round P228 magazine of 9x19mm M882 Ball
+hlc_13Rnd_9x19_JHP_P228 - 13 Round P228 magazine of 9x19mm Mk243 Mod 0 JHP
+hlc_13Rnd_9x19_SD_P228 - 13 Round P228 magazine of 9x19mm Subsonic FMJ
+hlc_10Rnd_40SW_B_P229 - 10 Round P229 magazine of .40 S&W Mk309 Mod 0 Ball
+hlc_10Rnd_40SW_JHP_P229 - 10 Round P229 magazine of .40 S&W Mk308 Mod 0 JHP
+hlc_10Rnd_40SW_SD_P229 - 10 Round P229 magazine of .40 S&W JHP Subsonic
+hlc_10Rnd_357SIG_B_P229 - 10 Round P229 magazine of .357SIG FMJ-FN
+hlc_10Rnd_357SIG_JHP_P229 10 Round P229 magazine of .357SIG JHP
+
+hlc_10Rnd_9x19_B_P239 - 10 Round P239 magazine of 9x19mm M882 Ball
+hlc_10Rnd_9x19_JHP_P239 - 10 Round P239 magazine of 9x19mm Mk243 Mod 0 JHP
+hlc_10Rnd_9x19_SD_P239 - 10 Round P239 magazine of 9x19mm Subsonic FMJ
+hlc_8Rnd_40SW_B_P239 - 8 Round P239 magazine of .40 S&W Mk309 Mod 0 Ball
+hlc_10Rnd_40sw_JHP_P239 - 8 Round P239 magazine of .40 S&W Mk308 Mod 0 JHP
+hlc_10Rnd_40sw_SD_P239 - 8 Round P239 magazine of .40 S&W JHP Subsonic
+hlc_8Rnd_357SIG_B_P239 - 8 Round P239 magazine of .357SIG FMJ-FN
+hlc_8Rnd_357SIG_JHP_P239 8 Round P239 magazine of .357SIG JHP
