@@ -5,12 +5,12 @@
 	
 	
 	//////////////////
-	/	ACR Rifles   /
+	/   ACR Rifles   /
 	//////////////////
 	
 	Classnames:							  Description:
 	
-	hlc_rifle_ACR68_SBR_tan      		- Remington ACR-E in 6.8mm SPCII with 10.5" Barrel (Tan)
+	hlc_rifle_ACR68_SBR_tan      			- Remington ACR-E in 6.8mm SPCII with 10.5" Barrel (Tan)
 	hlc_rifle_ACR68_SBR_black			- Remington ACR-E in 6.8mm SPCII with 10.5" Barrel (Black)
 	hlc_rifle_ACR68_SBR_green			- Remington ACR-E in 6.8mm SPCII with 10.5" Barrel (Green)
 	
@@ -42,10 +42,10 @@
 	hlc_rifle_ACR_full_tan				- Remington ACR-E in 5.56mm NATO with 20" Barrel (Tan)
 	hlc_rifle_ACR_full_green			- Remington ACR-E in 5.56mm NATO with 20" Barrel (Green)
 	
-	hlc_rifleACR_SBR_cliffhanger		- Remington ACR-E in 5.56mm NATO with 10.5" Barrel - Cliffhanger special edition	(Note: Technically Speaking, STANAG Magazines ARE capable of loading/feeding 6.8 SPC, but not PMAGs or other polymer mags.. I'm doing a mulligan to accomodate the request)
+	hlc_rifleACR_SBR_cliffhanger			- Remington ACR-E in 5.56mm NATO with 10.5" Barrel - Cliffhanger special edition	(Note: Technically Speaking, STANAG Magazines ARE capable of loading/feeding 6.8 SPC, but not PMAGs or other polymer mags.. I'm doing a mulligan to accomodate the request)
 	
-	hlc_30rnd_68x43_FMJ					- 26-round magazine of FMJ 6.8x43mm SPC
-	hlc_30rnd_68x43_OTM					- 26-round magazine of Ballistic-Tip Boat-tail 6.8x43mm SPC
+	hlc_30rnd_68x43_FMJ				- 26-round magazine of FMJ 6.8x43mm SPC
+	hlc_30rnd_68x43_OTM				- 26-round magazine of Ballistic-Tip Boat-tail 6.8x43mm SPC
 	hlc_30rnd_68x43_Tracer				- 26-round magazine of NATO-spec Tracer 6.8x43mm SPC
 	hlc_30rnd_68x43_IRDIM				- 26-round magazine of IR-DIM Tracer 6.8x43mm SPC
 	hlc_30rnd_68x43_MFMJ				- 26-round magazine of 1-to-4 NATO-spec Tracer/FMJ 6.8x43mm SPC
@@ -54,25 +54,25 @@
 	
 
 	//////////////////
-	/	AK Rifles    /
+	/   AK Rifles    /
 	//////////////////
 	
 	Classnames:							  Description:
 	
-	HLC_AK_ammobox						- Ammo box containing all this.
+	HLC_AK_ammobox					- Ammo box containing all this.
 	
-	hlc_rifle_ak74						- AK74
-	hlc_rifle_ak74_MTK					- AK74 with MTK83 Picatinny Mount
+	hlc_rifle_ak74					- AK74
+	hlc_rifle_ak74_MTK				- AK74 with MTK83 Picatinny Mount
 	hlc_rifle_ak74_dirty				- AK74, Worn
 	hlc_rifle_ak74_dirty2				- AK74, Worn
-	hlc_rifle_aks74						- AKS74
-	hlc_rifle_aks74_MTK					- AKS74 with MTK83 Picatinny Mount
-	hlc_rifle_aks74u					- AKS74U
+	hlc_rifle_aks74					- AKS74
+	hlc_rifle_aks74_MTK				- AKS74 with MTK83 Picatinny Mount
+	hlc_rifle_aks74u				- AKS74U
 	hlc_rifle_aks74u_MTK				- AKS74U with MTK83 Picatinny Mount
-	hlc_rifle_ak47						- AK47
-	hlc_rifle_akm						- AKM
-	hlc_rifle_akm_MTK					- AK47 with MTK83 Picatinny Mount
-	hlc_rifle_rpk						- RPK
+	hlc_rifle_ak47					- AK47
+	hlc_rifle_akm					- AKM
+	hlc_rifle_akm_MTK				- AK47 with MTK83 Picatinny Mount
+	hlc_rifle_rpk					- RPK
 	hlc_rifle_ak12						- AK12
 	hlc_rifle_aku12						- AK12U 
 	hlc_rifle_rpk12						- RPK12
@@ -129,7 +129,7 @@
 
 	
 	//////////////////
-	/	AR-15 Rifles /
+	/  AR-15 Rifles  /
 	//////////////////
 
 	Classnames:							  Description:
@@ -159,7 +159,7 @@
 	
 	
 	//////////////////
-	/	AUG Rifles 	 /
+	/   AUG Rifles 	 /
 	//////////////////
 	
 	Classnames:							  Description:
@@ -226,7 +226,7 @@
 
 	
 	//////////////////////////
-	/	AWM Sniper Rifles 	 /
+	/   AWM Sniper Rifles 	 /
 	//////////////////////////
 	
 	Classnames:							  Description:
@@ -250,7 +250,7 @@
 	
 	
 	//////////////////////////
-	/	FN 30-11 Rifles 	 /
+	/     FN 30-11 Rifles 	 /
 	//////////////////////////
 
 	Classnames:							  Description:
@@ -279,7 +279,7 @@
 	
 	
 	//////////////////
-	/	G3 Rifles 	 /
+	/    G3 Rifles 	 /
 	//////////////////
 
 	Classnames:							  Description:
@@ -309,7 +309,7 @@
 	
 	
 	//////////////////
-	/	G36 Rifles 	 /
+	/   G36 Rifles 	 /
 	//////////////////
 	
 	Classnames:							  Description:
@@ -351,7 +351,7 @@
 	
 	
 	//////////////////
-	/	M14 Rifles 	 /
+	/   M14 Rifles 	 /
 	//////////////////
 	
 	Classnames:							  Description:
@@ -373,7 +373,7 @@
 	
 	
 	/////////////////////////////
-	/	M60 Light Machine Gun	/
+	/   M60 Light Machine Gun   /
 	/////////////////////////////
 	
 	Classnames:							  Description:
@@ -388,7 +388,7 @@
 	
 	
 	//////////////////////
-	/	MG42s/MG42 MMGs	 /
+	/   MG42s/MG42 MMGs  /
 	//////////////////////
 	
 	Classnames:							  Description:
@@ -433,7 +433,7 @@
 	
 	
 	//////////////
-	/	Minigun	 /
+	/   Minigun  /
 	//////////////
 	
 	Classnames:							  Description:
@@ -445,7 +445,7 @@
 	
 	
 	//////////////////
-	/	MP5 SGMs	 /
+	/    MP5 SGMs	 /
 	//////////////////
 
 	Classnames:							  Description:
@@ -478,7 +478,7 @@
 	
 	
 	///////////////////
-	/		SAWs	  /
+	/      SAWs	  /
 	///////////////////
 	
 	Classnames:							  Description:
@@ -499,7 +499,7 @@
 	
 	
 	///////////////////////////
-	/		SG510 Rifles	  /
+	/	SG510 Rifles	  /
 	///////////////////////////
 	
 	Classnames:							  Description:
@@ -522,7 +522,7 @@
 	
 	
 	/////////////////////////////////
-	/	M1903 Springfield Rifles	/
+	/   M1903 Springfield Rifles	/
 	/////////////////////////////////
 	
 	Classnames:							  Description:
@@ -534,7 +534,7 @@
 
 
 	//////////////////////////
-	/		P226 Pistols	 /
+	/      P226 Pistols	 /
 	//////////////////////////
 
 	Classnames:							  Description:
