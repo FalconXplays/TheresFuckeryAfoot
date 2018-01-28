@@ -1,25 +1,25 @@
 # TheresFuckeryAfoot
-TFA related content.
+### TFA related content.
 
-Required content:
+*Required content:*
 
-NIArms All-in-One
-https://github.com/toadie2k/NIArms
+1. NIArms All-in-One
+..* https://github.com/toadie2k/NIArms
 
-Enhanced Movement
-http://www.armaholic.com/page.php?id=27224
+2. Enhanced Movement
+..* http://www.armaholic.com/page.php?id=27224
 
-Extended Base Mod
-http://www.armaholic.com/page.php?id=30624
+3. Extended Base Mod
+..* http://www.armaholic.com/page.php?id=30624
 
-Ryan Zombies
-http://www.armaholic.com/page.php?id=28958
+4. Ryan Zombies
+..* http://www.armaholic.com/page.php?id=28958
 
-kuplion ExileZ Mod spawner
-https://github.com/kuplion/ExileZ-Mod
+5. kuplion ExileZ Mod spawner
+..* https://github.com/kuplion/ExileZ-Mod
 
-CBA
-https://github.com/CBATeam/CBA_A3
+6. CBA
+..* https://github.com/CBATeam/CBA_A3
 
-Exile Mod
-http://www.exilemod.com/
+7. Exile Mod
+..* http://www.exilemod.com/
