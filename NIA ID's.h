@@ -234,7 +234,7 @@
 	hlc_rifle_awcovert		 		- AI Arctic Warfare Covert-Magnum (Olive Drab) .300 Win Mag
 	hlc_rifle_awcovert_BL		 		- AI Arctic Warfare Covert-Magnum (Flat Dark Earth) .300 Win Mag
 	hlc_rifle_awcovert_FDE		 		- AI Arctic Warfare Covert-Magnum (Black) .300 Win Mag
-	hlc_rifle_awmagnum		 			- AI Arctic Warfare Magnum (Olive Drab) .300 Win Mag - With Parker-Hale Bipod
+	hlc_rifle_awmagnum		 		- AI Arctic Warfare Magnum (Olive Drab) .300 Win Mag - With Parker-Hale Bipod
 	hlc_rifle_awmagnum_BL		 		- AI Arctic Warfare Magnum (Black) .300 Win Mag - With Parker-Hale Bipod
 	hlc_rifle_awmagnum_FDE				- AI Arctic Warfare Magnum (Flat Dark Earth) .300 Win Mag - With Parker-Hale Bipod
 	hlc_rifle_awMagnum_FDE_ghillie			- AI Arctic Warfare Magnum (Flat Dark Earth) .300 Win Mag - With Parker-Hale Bipod and Ghillie Shroud
@@ -393,9 +393,9 @@
 	
 	Classnames:							  Description:
 	
-	hlc_lmg_MG42				 		- MG42 (Wooden Stock)
+	hlc_lmg_MG42				 	- MG42 (Wooden Stock)
 	hlc_lmg_mg42_bakelite			 	- MG42 (Bakelite)
-	hlc_lmg_MG3				 			- Rheinmetall MG3 
+	hlc_lmg_MG3				 	- Rheinmetall MG3 
 	hlc_lmg_MG3_optic				- Rheinmetall Mg M/62 (Danish Contract MG3+Optic Mount)
 	hlc_lmg_MG3KWS				 	- Rheinmetall MG3-KWS : Kampfwertsteigerung (Combat Improvements Model)(Tan/RAL)
 	hlc_lmg_MG3KWS_b			 	- Rheinmetall MG3-KWS : Kampfwertsteigerung (Combat Improvements Model)(Green/RAL)
@@ -484,7 +484,7 @@
 	Classnames:							  Description:
 	
 	hlc_lmg_minimipara		 		- Minimi Para (13.7" Barrel/ Para Stock) (No Optic Mount)
-	hlc_lmg_minimi					- Minimi	(18.3" Barrel/Para Stock) (No Optic Mount)
+	hlc_lmg_minimi					- Minimi (18.3" Barrel/Para Stock) (No Optic Mount)
 	hlc_lmg_minimi_railed				- Minimi RIS (18.3" Barrel/Solid Stock/M1913 Optics Mount)
 	hlc_lmg_m249para			 	- M249 Para (13.7" Barrel/Para Stock) (No Optic Mount)
 	hlc_lmg_M249E2			 		- M249E2 (18.3" Barrel/Solid Stock) (No Optic Mount)
