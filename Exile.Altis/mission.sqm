@@ -6,7 +6,8 @@ class Mission
 		"exile_client",
 		"a3_map_altis",
 		"ryanzombies",
-		"ryanzombiesfunctions"
+		"ryanzombiesfunctions",
+		"cba_exh"
 	};
 	addOnsAuto[]=
 	{
