@@ -7,7 +7,7 @@ class Mission
 		"a3_map_altis",
 		"ryanzombies",
 		"ryanzombiesfunctions",
-		"cba_exh"
+		"cba_xeh"
 	};
 	addOnsAuto[]=
 	{
