@@ -1045,6 +1045,7 @@ class Mission
 			};
 		};
 	};
+};
 	// class Markers
 	// {
 		// items=26;
