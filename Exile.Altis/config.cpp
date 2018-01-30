@@ -7332,13 +7332,6 @@ class CfgTraderCategories
 			"Exile_Car_QilinUnarmed",
 			"Exile_Car_MB4WD",
 			"Exile_Car_MB4WDOpen",
-			"MEF_USMC_Huron",
-			"MEF_USMC_Ghosthawk",
-			"MEF_USMC_Hummingbird",
-			"MEF_USMC_Pawnee",
-			"MEF_USMC_Blackfoot",
-			"meu_AH1Z",
-			"meu_UH1Y",
 			"HAFM_M1114_AGS_ACR",
 			"HAFM_HMMWV_M1151_M2"
 		};
@@ -7379,7 +7372,14 @@ class CfgTraderCategories
 			"Exile_Chopper_Orca_BlackCustom",
 			"Exile_Chopper_Mohawk_FIA",
 			"Exile_Chopper_Huron_Black",
-			"Exile_Chopper_Hellcat_Green"
+			"Exile_Chopper_Hellcat_Green",
+			"MEF_USMC_Huron",
+			"MEF_USMC_Ghosthawk",
+			"MEF_USMC_Hummingbird",
+			"MEF_USMC_Pawnee",
+			"MEF_USMC_Blackfoot",
+			"meu_AH1Z",
+			"meu_UH1Y"
 		};
 	};
 
