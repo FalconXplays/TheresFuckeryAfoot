@@ -15,6 +15,6 @@
 
 6. [CBA](https://github.com/CBATeam/CBA_A3 "CBA github")
 
-7. [VSM - Gear Pack]{http://www.armaholic.com/page.php?id=29775 "VSA Armaholic")
+7. [VSM - Gear Pack](http://www.armaholic.com/page.php?id=29775 "VSA Armaholic")
 
 8. [Exile Mod](http://www.exilemod.com/ "Exile Mod homepage")
