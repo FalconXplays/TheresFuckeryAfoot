@@ -3867,147 +3867,147 @@ class CfgExileArsenal
 	// USMC MEF Vehicles
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class MEF_USMC_Huron								{ quality = 4; price = 50000; };
-	class MEF_USMC_Ghosthawk							{ quality = 4; price = 125000; };
-	class MEF_USMC_Hummingbird							{ quality = 4; price = 110000; };
-	class MEF_USMC_Pawnee								{ quality = 4; price = 145000; };
-	class MEF_USMC_Blackfoot							{ quality = 4; price = 220000; };
-	class meu_AH1Z										{ quality = 4; price = 235000; };
-	class meu_UH1Y										{ quality = 4; price = 245000; };
-	class HAFM_M1114_AGS_ACR							{ quality = 4; price = 120000; };
-	class HAFM_HMMWV_M1151_M2							{ quality = 4; price = 135000; };
+	// class MEF_USMC_Huron								{ quality = 4; price = 50000; };
+	// class MEF_USMC_Ghosthawk							{ quality = 4; price = 125000; };
+	// class MEF_USMC_Hummingbird							{ quality = 4; price = 110000; };
+	// class MEF_USMC_Pawnee								{ quality = 4; price = 145000; };
+	// class MEF_USMC_Blackfoot							{ quality = 4; price = 220000; };
+	// class meu_AH1Z										{ quality = 4; price = 235000; };
+	// class meu_UH1Y										{ quality = 4; price = 245000; };
+	// class HAFM_M1114_AGS_ACR							{ quality = 4; price = 120000; };
+	// class HAFM_HMMWV_M1151_M2							{ quality = 4; price = 135000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// USMC MEF Packs
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class MEF_TAN_Carryall								{ quality = 3; price = 1500; };
-	class MEF_Wood_Carryall								{ quality = 3; price = 1500; };
-	class MEF_Des_Carryall								{ quality = 3; price = 1500; };
-	class MEF_M81_Carryall								{ quality = 3; price = 1500; };
-	class MEF_Blk_Carryall								{ quality = 3; price = 1500; };
-	class MEF_Cyt_Carryall								{ quality = 3; price = 1500; };
-	class MEF_OD_Carryall								{ quality = 3; price = 1500; };
-	class MEF_TAN_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_Wood_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_Des_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_M81_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_Blk_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_Cyt_Kitbag								{ quality = 3; price = 1500; };
-	class MEF_OD_Kitbag									{ quality = 3; price = 1500; };
-	class MEF_TAN_Assault								{ quality = 3; price = 1500; };
-	class MEF_Wood_Assault								{ quality = 3; price = 1500; };
-	class MEF_Des_Assault								{ quality = 3; price = 1500; };
-	class MEF_M81_Assault								{ quality = 3; price = 1500; };
-	class MEF_Blk_Assault								{ quality = 3; price = 1500; };
-	class MEF_Cyt_Assault								{ quality = 3; price = 1500; };
-	class MEF_OD_Assault								{ quality = 3; price = 1500; };
-	class MEF_TAN_Tactical								{ quality = 3; price = 1500; };
-	class MEF_Wood_Tactical								{ quality = 3; price = 1500; };
-	class MEF_Des_Tactical								{ quality = 3; price = 1500; };
-	class MEF_Tan_Range2_Belt							{ quality = 3; price = 1500; };
+	// class MEF_TAN_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_Wood_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_Des_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_M81_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_Blk_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_Cyt_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_OD_Carryall								{ quality = 3; price = 1500; };
+	// class MEF_TAN_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_Wood_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_Des_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_M81_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_Blk_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_Cyt_Kitbag								{ quality = 3; price = 1500; };
+	// class MEF_OD_Kitbag									{ quality = 3; price = 1500; };
+	// class MEF_TAN_Assault								{ quality = 3; price = 1500; };
+	// class MEF_Wood_Assault								{ quality = 3; price = 1500; };
+	// class MEF_Des_Assault								{ quality = 3; price = 1500; };
+	// class MEF_M81_Assault								{ quality = 3; price = 1500; };
+	// class MEF_Blk_Assault								{ quality = 3; price = 1500; };
+	// class MEF_Cyt_Assault								{ quality = 3; price = 1500; };
+	// class MEF_OD_Assault								{ quality = 3; price = 1500; };
+	// class MEF_TAN_Tactical								{ quality = 3; price = 1500; };
+	// class MEF_Wood_Tactical								{ quality = 3; price = 1500; };
+	// class MEF_Des_Tactical								{ quality = 3; price = 1500; };
+	// class MEF_Tan_Range2_Belt							{ quality = 3; price = 1500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// USMC MEF Vests
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class MEF_Vest_Blk_Infantry							{ quality = 3; price = 3500; };
-	class MEF_Vest_Blk_Medical							{ quality = 3; price = 3500; };
-	class MEF_Vest_Blk_Armor							{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Infantry							{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Medical							{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Armor							{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Infantry							{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Medical							{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Armor							{ quality = 3; price = 3500; };
-	class MEF_Vest_Blk_Infantry_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Blk_Medical_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Blk_Armor_L							{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Infantry_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Medical_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Cyt_Armor_L							{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Infantry_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Medical_L						{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_Armor_L							{ quality = 3; price = 3500; };
-	class MEF_Vest_Tan_v2_Infantry						{ quality = 3; price = 3500; };
-	class MEF_Tan_Range_Belt							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Infantry							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Medical							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Armor							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Infantry							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Medical							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Armor							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Infantry							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Medical							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Armor							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Infantry_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Medical_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Blk_Armor_L							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Infantry_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Medical_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Cyt_Armor_L							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Infantry_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Medical_L						{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_Armor_L							{ quality = 3; price = 3500; };
+	// class MEF_Vest_Tan_v2_Infantry						{ quality = 3; price = 3500; };
+	// class MEF_Tan_Range_Belt							{ quality = 3; price = 3500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// USMC MEF Uniforms
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class MEF_Wood_MARPAT_LS							{ quality = 3; price = 500; };
-	class MEF_Wood_MARPAT_RS							{ quality = 3; price = 500; };
-	class MEF_Wood_MARPAT_TS							{ quality = 3; price = 500; };
-	class MEF_Desert_MARPAT_LS							{ quality = 3; price = 500; };
-	class MEF_Desert_MARPAT_RS							{ quality = 3; price = 500; };
-	class MEF_Desert_MARPAT_TS							{ quality = 3; price = 500; };	
-	class MEF_Wood_BDU_MR_LS							{ quality = 3; price = 500; };
-	class MEF_Wood_BDU_MR_RS							{ quality = 3; price = 500; };
-	class MEF_Wood_BDU_TS								{ quality = 3; price = 500; };
-	class MEF_Wood_IN_MARPAT_LS							{ quality = 3; price = 500; };
-	class MEF_Wood_IN_MARPAT_RS							{ quality = 3; price = 500; };
-	class MEF_Des_IN_MARPAT_LS							{ quality = 3; price = 500; };
-	class MEF_Des_IN_MARPAT_RS							{ quality = 3; price = 500; };
-	class MEF_Wood_IN_SNOW_LS							{ quality = 3; price = 500; };
-	class MEF_Wood_MARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_Wood_MARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_GRY_WMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_GRY_WMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_OD_WMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_OD_WMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_TAN_WMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_TAN_WMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_Des_MARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_Des_MARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_GRY_DMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_GRY_DMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_OD_DMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_OD_DMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_TAN_DMARPAT_RM_LS							{ quality = 3; price = 500; };
-	class MEF_TAN_DMARPAT_RM_RS							{ quality = 3; price = 500; };
-	class MEF_BLK_BDU_MR_LS								{ quality = 3; price = 500; };
-	class MEF_BLK_BDU_MR_RS								{ quality = 3; price = 500; };
-	class MEF_GRY_BDU_MR_LS								{ quality = 3; price = 500; };
-	class MEF_GRY_BDU_MR_RS								{ quality = 3; price = 500; };
-	class MEF_OD_BDU_MR_LS								{ quality = 3; price = 500; };
-	class MEF_OD_BDU_MR_RS								{ quality = 3; price = 500; };
-	class MEF_TAN_BDU_MR_LS								{ quality = 3; price = 500; };
-	class MEF_TAN_BDU_MR_RS								{ quality = 3; price = 500; };
-	class MEF_Wood_MARPAT_RM_DV							{ quality = 3; price = 500; };
-	class MEF_Desert_MARPAT_RM_DV						{ quality = 3; price = 500; };
-	class MEF_M81_MR_DV									{ quality = 3; price = 500; };
-	class MEF_TAN_HP_Uni								{ quality = 3; price = 500; };
-	class MEF_OD_F_SUIT									{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_LS							{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_RS							{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_TS							{ quality = 3; price = 500; };
+	// class MEF_Desert_MARPAT_LS							{ quality = 3; price = 500; };
+	// class MEF_Desert_MARPAT_RS							{ quality = 3; price = 500; };
+	// class MEF_Desert_MARPAT_TS							{ quality = 3; price = 500; };	
+	// class MEF_Wood_BDU_MR_LS							{ quality = 3; price = 500; };
+	// class MEF_Wood_BDU_MR_RS							{ quality = 3; price = 500; };
+	// class MEF_Wood_BDU_TS								{ quality = 3; price = 500; };
+	// class MEF_Wood_IN_MARPAT_LS							{ quality = 3; price = 500; };
+	// class MEF_Wood_IN_MARPAT_RS							{ quality = 3; price = 500; };
+	// class MEF_Des_IN_MARPAT_LS							{ quality = 3; price = 500; };
+	// class MEF_Des_IN_MARPAT_RS							{ quality = 3; price = 500; };
+	// class MEF_Wood_IN_SNOW_LS							{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_GRY_WMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_GRY_WMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_OD_WMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_OD_WMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_TAN_WMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_TAN_WMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_Des_MARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_Des_MARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_GRY_DMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_GRY_DMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_OD_DMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_OD_DMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_TAN_DMARPAT_RM_LS							{ quality = 3; price = 500; };
+	// class MEF_TAN_DMARPAT_RM_RS							{ quality = 3; price = 500; };
+	// class MEF_BLK_BDU_MR_LS								{ quality = 3; price = 500; };
+	// class MEF_BLK_BDU_MR_RS								{ quality = 3; price = 500; };
+	// class MEF_GRY_BDU_MR_LS								{ quality = 3; price = 500; };
+	// class MEF_GRY_BDU_MR_RS								{ quality = 3; price = 500; };
+	// class MEF_OD_BDU_MR_LS								{ quality = 3; price = 500; };
+	// class MEF_OD_BDU_MR_RS								{ quality = 3; price = 500; };
+	// class MEF_TAN_BDU_MR_LS								{ quality = 3; price = 500; };
+	// class MEF_TAN_BDU_MR_RS								{ quality = 3; price = 500; };
+	// class MEF_Wood_MARPAT_RM_DV							{ quality = 3; price = 500; };
+	// class MEF_Desert_MARPAT_RM_DV						{ quality = 3; price = 500; };
+	// class MEF_M81_MR_DV									{ quality = 3; price = 500; };
+	// class MEF_TAN_HP_Uni								{ quality = 3; price = 500; };
+	// class MEF_OD_F_SUIT									{ quality = 3; price = 500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// USMC MEF Helmets
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class MEF_ECH_OD									{ quality = 3; price = 2000; };
-	class MEF_ECH_CY									{ quality = 3; price = 2000; };
-	class MEF_ECH_GR									{ quality = 3; price = 2000; };
-	class MEF_ECH_EA									{ quality = 3; price = 2000; };
-	class MEF_ECH_Lite_OD								{ quality = 3; price = 2000; };
-	class MEF_ECH_Lite_CY								{ quality = 3; price = 2000; };
-	class MEF_ECH_Lite_GR								{ quality = 3; price = 2000; };
-	class MEF_ECH_Lite_EA								{ quality = 3; price = 2000; };
-	class MEF_Woodland_Helmet_MICH						{ quality = 3; price = 2000; };
-	class MEF_Desert_Helmet_MICH						{ quality = 3; price = 2000; };
-	class MEF_Wood_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
-	class MEF_Wood_Helmet_LWH							{ quality = 3; price = 2000; };
-	class MEF_Snow_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
-	class MEF_Snow_Helmet_LWH							{ quality = 3; price = 2000; };
-	class MEF_Desert_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
-	class MEF_Desert_Helmet_LWH							{ quality = 3; price = 2000; };
-	class MEF_Woodland_8Point							{ quality = 3; price = 2000; };
-	class MEF_Desert_8Point								{ quality = 3; price = 2000; };
-	class MEF_Cap_Wood									{ quality = 3; price = 2000; };
-	class MEF_Cap_Des									{ quality = 3; price = 2000; };
-	class MEF_Cap_M81									{ quality = 3; price = 2000; };
-	class MEF_Boonie_Wood								{ quality = 3; price = 2000; };
-	class MEF_Boonie_Des								{ quality = 3; price = 2000; };
-	class MEF_Boonie_M81								{ quality = 3; price = 2000; };
+	// class MEF_ECH_OD									{ quality = 3; price = 2000; };
+	// class MEF_ECH_CY									{ quality = 3; price = 2000; };
+	// class MEF_ECH_GR									{ quality = 3; price = 2000; };
+	// class MEF_ECH_EA									{ quality = 3; price = 2000; };
+	// class MEF_ECH_Lite_OD								{ quality = 3; price = 2000; };
+	// class MEF_ECH_Lite_CY								{ quality = 3; price = 2000; };
+	// class MEF_ECH_Lite_GR								{ quality = 3; price = 2000; };
+	// class MEF_ECH_Lite_EA								{ quality = 3; price = 2000; };
+	// class MEF_Woodland_Helmet_MICH						{ quality = 3; price = 2000; };
+	// class MEF_Desert_Helmet_MICH						{ quality = 3; price = 2000; };
+	// class MEF_Wood_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
+	// class MEF_Wood_Helmet_LWH							{ quality = 3; price = 2000; };
+	// class MEF_Snow_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
+	// class MEF_Snow_Helmet_LWH							{ quality = 3; price = 2000; };
+	// class MEF_Desert_Goggles_Helmet_LWH					{ quality = 3; price = 2000; };
+	// class MEF_Desert_Helmet_LWH							{ quality = 3; price = 2000; };
+	// class MEF_Woodland_8Point							{ quality = 3; price = 2000; };
+	// class MEF_Desert_8Point								{ quality = 3; price = 2000; };
+	// class MEF_Cap_Wood									{ quality = 3; price = 2000; };
+	// class MEF_Cap_Des									{ quality = 3; price = 2000; };
+	// class MEF_Cap_M81									{ quality = 3; price = 2000; };
+	// class MEF_Boonie_Wood								{ quality = 3; price = 2000; };
+	// class MEF_Boonie_Des								{ quality = 3; price = 2000; };
+	// class MEF_Boonie_M81								{ quality = 3; price = 2000; };
 };
 
 class CfgAdminToolkitCustomMod {
@@ -5485,53 +5485,53 @@ class CfgTraderCategories
 			"U_C_Man_casual_6_F",
 			"U_B_CTRG_Soldier_urb_1_F",
 			"U_B_CTRG_Soldier_urb_2_F",
-			"U_B_CTRG_Soldier_urb_3_F",
+			"U_B_CTRG_Soldier_urb_3_F"
 			
 			// Marine Expeditionary Force uniforms
 			
-			"MEF_Wood_MARPAT_LS",
-			"MEF_Wood_MARPAT_RS",
-			"MEF_Wood_MARPAT_TS",
-			"MEF_Desert_MARPAT_LS",
-			"MEF_Desert_MARPAT_RS",
-			"MEF_Desert_MARPAT_TS",
-			"MEF_Wood_BDU_MR_LS",
-			"MEF_Wood_BDU_MR_RS",
-			"MEF_Wood_BDU_TS",
-			"MEF_Wood_IN_MARPAT_LS",
-			"MEF_Wood_IN_MARPAT_RS",
-			"MEF_Des_IN_MARPAT_LS",
-			"MEF_Des_IN_MARPAT_RS",
-			"MEF_Wood_IN_SNOW_LS",
-			"MEF_Wood_MARPAT_RM_LS",
-			"MEF_Wood_MARPAT_RM_RS",
-			"MEF_GRY_WMARPAT_RM_LS",
-			"MEF_GRY_WMARPAT_RM_RS",
-			"MEF_OD_WMARPAT_RM_LS",
-			"MEF_OD_WMARPAT_RM_RS",
-			"MEF_TAN_WMARPAT_RM_LS",
-			"MEF_TAN_WMARPAT_RM_RS",
-			"MEF_Des_MARPAT_RM_LS",
-			"MEF_Des_MARPAT_RM_RS",
-			"MEF_GRY_DMARPAT_RM_LS",
-			"MEF_GRY_DMARPAT_RM_RS",
-			"MEF_OD_DMARPAT_RM_LS",
-			"MEF_OD_DMARPAT_RM_RS",
-			"MEF_TAN_DMARPAT_RM_LS",
-			"MEF_TAN_DMARPAT_RM_RS",
-			"MEF_BLK_BDU_MR_LS",
-			"MEF_BLK_BDU_MR_RS",
-			"MEF_GRY_BDU_MR_LS",
-			"MEF_GRY_BDU_MR_RS",
-			"MEF_OD_BDU_MR_LS",
-			"MEF_OD_BDU_MR_RS",
-			"MEF_TAN_BDU_MR_LS",
-			"MEF_TAN_BDU_MR_RS",
-			"MEF_Wood_MARPAT_RM_DV",
-			"MEF_Desert_MARPAT_RM_DV",
-			"MEF_M81_MR_DV",
-			"MEF_TAN_HP_Uni",
-			"MEF_OD_F_SUIT"
+			// "MEF_Wood_MARPAT_LS",
+			// "MEF_Wood_MARPAT_RS",
+			// "MEF_Wood_MARPAT_TS",
+			// "MEF_Desert_MARPAT_LS",
+			// "MEF_Desert_MARPAT_RS",
+			// "MEF_Desert_MARPAT_TS",
+			// "MEF_Wood_BDU_MR_LS",
+			// "MEF_Wood_BDU_MR_RS",
+			// "MEF_Wood_BDU_TS",
+			// "MEF_Wood_IN_MARPAT_LS",
+			// "MEF_Wood_IN_MARPAT_RS",
+			// "MEF_Des_IN_MARPAT_LS",
+			// "MEF_Des_IN_MARPAT_RS",
+			// "MEF_Wood_IN_SNOW_LS",
+			// "MEF_Wood_MARPAT_RM_LS",
+			// "MEF_Wood_MARPAT_RM_RS",
+			// "MEF_GRY_WMARPAT_RM_LS",
+			// "MEF_GRY_WMARPAT_RM_RS",
+			// "MEF_OD_WMARPAT_RM_LS",
+			// "MEF_OD_WMARPAT_RM_RS",
+			// "MEF_TAN_WMARPAT_RM_LS",
+			// "MEF_TAN_WMARPAT_RM_RS",
+			// "MEF_Des_MARPAT_RM_LS",
+			// "MEF_Des_MARPAT_RM_RS",
+			// "MEF_GRY_DMARPAT_RM_LS",
+			// "MEF_GRY_DMARPAT_RM_RS",
+			// "MEF_OD_DMARPAT_RM_LS",
+			// "MEF_OD_DMARPAT_RM_RS",
+			// "MEF_TAN_DMARPAT_RM_LS",
+			// "MEF_TAN_DMARPAT_RM_RS",
+			// "MEF_BLK_BDU_MR_LS",
+			// "MEF_BLK_BDU_MR_RS",
+			// "MEF_GRY_BDU_MR_LS",
+			// "MEF_GRY_BDU_MR_RS",
+			// "MEF_OD_BDU_MR_LS",
+			// "MEF_OD_BDU_MR_RS",
+			// "MEF_TAN_BDU_MR_LS",
+			// "MEF_TAN_BDU_MR_RS",
+			// "MEF_Wood_MARPAT_RM_DV",
+			// "MEF_Desert_MARPAT_RM_DV",
+			// "MEF_M81_MR_DV",
+			// "MEF_TAN_HP_Uni",
+			// "MEF_OD_F_SUIT"
 
 		};
 	};
@@ -5606,30 +5606,30 @@ class CfgTraderCategories
 			"V_DeckCrew_red_F",
 			"V_DeckCrew_white_F",
 			"V_DeckCrew_brown_F",
-			"V_DeckCrew_violet_F",
+			"V_DeckCrew_violet_F"
 			
 			// Marine Expeditionary Force vests
 			
-			"MEF_Vest_Blk_Infantry",
-			"MEF_Vest_Blk_Medical",
-			"MEF_Vest_Blk_Armor",
-			"MEF_Vest_Cyt_Infantry",
-			"MEF_Vest_Cyt_Medical",
-			"MEF_Vest_Cyt_Armor",
-			"MEF_Vest_Tan_Infantry",
-			"MEF_Vest_Tan_Medical",
-			"MEF_Vest_Tan_Armor",
-			"MEF_Vest_Blk_Infantry_L",
-			"MEF_Vest_Blk_Medical_L",
-			"MEF_Vest_Blk_Armor_L",
-			"MEF_Vest_Cyt_Infantry_L",
-			"MEF_Vest_Cyt_Medical_L",
-			"MEF_Vest_Cyt_Armor_L",
-			"MEF_Vest_Tan_Infantry_L",
-			"MEF_Vest_Tan_Medical_L",
-			"MEF_Vest_Tan_Armor_L",
-			"MEF_Vest_Tan_v2_Infantry",
-			"MEF_Tan_Range_Belt"
+			// "MEF_Vest_Blk_Infantry",
+			// "MEF_Vest_Blk_Medical",
+			// "MEF_Vest_Blk_Armor",
+			// "MEF_Vest_Cyt_Infantry",
+			// "MEF_Vest_Cyt_Medical",
+			// "MEF_Vest_Cyt_Armor",
+			// "MEF_Vest_Tan_Infantry",
+			// "MEF_Vest_Tan_Medical",
+			// "MEF_Vest_Tan_Armor",
+			// "MEF_Vest_Blk_Infantry_L",
+			// "MEF_Vest_Blk_Medical_L",
+			// "MEF_Vest_Blk_Armor_L",
+			// "MEF_Vest_Cyt_Infantry_L",
+			// "MEF_Vest_Cyt_Medical_L",
+			// "MEF_Vest_Cyt_Armor_L",
+			// "MEF_Vest_Tan_Infantry_L",
+			// "MEF_Vest_Tan_Medical_L",
+			// "MEF_Vest_Tan_Armor_L",
+			// "MEF_Vest_Tan_v2_Infantry",
+			// "MEF_Tan_Range_Belt"
 		};
 	};
 
@@ -5764,34 +5764,34 @@ class CfgTraderCategories
 			"H_Cap_oli_Syndikat_F",
 			"H_Cap_tan_Syndikat_F",
 			"H_Cap_blk_Syndikat_F",
-			"H_Cap_grn_Syndikat_F",
+			"H_Cap_grn_Syndikat_F"
 			
 			// Marine Expeditionary Force headgear
 			
-			"MEF_ECH_OD",
-			"MEF_ECH_CY",
-			"MEF_ECH_GR",
-			"MEF_ECH_EA",
-			"MEF_ECH_Lite_OD",
-			"MEF_ECH_Lite_CY",
-			"MEF_ECH_Lite_GR",
-			"MEF_ECH_Lite_EA",
-			"MEF_Woodland_Helmet_MICH",
-			"MEF_Desert_Helmet_MICH",
-			"MEF_Wood_Goggles_Helmet_LWH",
-			"MEF_Wood_Helmet_LWH",
-			"MEF_Snow_Goggles_Helmet_LWH",
-			"MEF_Snow_Helmet_LWH",
-			"MEF_Desert_Goggles_Helmet_LWH",
-			"MEF_Desert_Helmet_LWH",
-			"MEF_Woodland_8Point",
-			"MEF_Desert_8Point",
-			"MEF_Cap_Wood",
-			"MEF_Cap_Des",
-			"MEF_Cap_M81",
-			"MEF_Boonie_Wood",
-			"MEF_Boonie_Des",
-			"MEF_Boonie_M81"
+			// "MEF_ECH_OD",
+			// "MEF_ECH_CY",
+			// "MEF_ECH_GR",
+			// "MEF_ECH_EA",
+			// "MEF_ECH_Lite_OD",
+			// "MEF_ECH_Lite_CY",
+			// "MEF_ECH_Lite_GR",
+			// "MEF_ECH_Lite_EA",
+			// "MEF_Woodland_Helmet_MICH",
+			// "MEF_Desert_Helmet_MICH",
+			// "MEF_Wood_Goggles_Helmet_LWH",
+			// "MEF_Wood_Helmet_LWH",
+			// "MEF_Snow_Goggles_Helmet_LWH",
+			// "MEF_Snow_Helmet_LWH",
+			// "MEF_Desert_Goggles_Helmet_LWH",
+			// "MEF_Desert_Helmet_LWH",
+			// "MEF_Woodland_8Point",
+			// "MEF_Desert_8Point",
+			// "MEF_Cap_Wood",
+			// "MEF_Cap_Des",
+			// "MEF_Cap_M81",
+			// "MEF_Boonie_Wood",
+			// "MEF_Boonie_Des",
+			// "MEF_Boonie_M81"
 		};
 	};
 
