@@ -20,11 +20,4 @@
 
 ## To fix list:
 
-### Trader City
-
-1. Fix Supply box at Armory trader
-2. Fix white shelf at Food trader
-3. Remove red shelf behind Food trader, add crate instead
-4. Remove 2 bodybags on corner of tent
-5. Fix Vehicle Trader spawn issue with marker
-6. 
+None at the moment.
