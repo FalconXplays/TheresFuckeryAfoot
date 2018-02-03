@@ -1,5 +1,4 @@
 # Theres Fuckery Afoot
-### TFA related content.
 
 *Required content:*
 
@@ -18,3 +17,14 @@
 7. [VSM - Gear Pack](http://www.armaholic.com/page.php?id=29775 "VSA Armaholic")
 
 8. [Exile Mod](http://www.exilemod.com/ "Exile Mod homepage")
+
+## To fix list:
+
+### Trader City
+
+1. Fix Supply box at Armory trader
+2. Fix white shelf at Food trader
+3. Remove red shelf behind Food trader, add crate instead
+4. Remove 2 bodybags on corner of tent
+5. Fix Vehicle Trader spawn issue with marker
+6. 
