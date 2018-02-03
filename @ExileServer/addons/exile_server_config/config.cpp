@@ -4210,7 +4210,7 @@ class CfgSettings
 			passenger = 400;			// Out of car/chopper/boat
 			roadKill = 200;				// :)
 			bigBird = 600;				// Roadkill, but with chopper/plane
-			chuteGreaterChopper = 1000;	// Someone flies into chute and chopper/plane explodes	
+			chuteGreaterChopper = 1000;		// Someone flies into chute and chopper/plane explodes	
 		};
 
 		class Percentages 
@@ -4316,7 +4316,7 @@ class CfgSettings
 		/**
 		 * Parachute drop height in meters. 
 		 */
-		parachuteDropHeight = 1000;
+		parachuteDropHeight = 2000;
 
 		/**
 		 * Number of minutes where a fresh spawned player remains in the
@@ -4477,7 +4477,7 @@ class CfgSettings
 			weather type of be more dominant compared to others, add it multiple times
 		*/
 		//keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"}; 
-		keyframes[] = {"Sunny"}; 
+		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"}; 
 
 		/*
 			This is a keyframe. Look up the BIKI to get more details about the parameters
@@ -4548,7 +4548,7 @@ class CfgSettings
 		// time in ARMA FORMAT << CONFIG
 		// https://community.bistudio.com/wiki/setDate
 
-		staticTime[] = {2039,10,24,15,30};
+		staticTime[] = {2039,10,24,12,30};
 	};
 
 
@@ -4599,7 +4599,7 @@ class CfgSettings
 			0 = off
 			1 = on
 		*/
-		useRestartMessages = 0;
+		useRestartMessages = 1;
 
 		/*
 			Number of minutes before the restart to inform your players.
@@ -4670,9 +4670,9 @@ class CfgSettings
 			function = "ExileServer_system_event_supplyBox_start";
 			minTime = 60; // minutes
 			maxTime = 180; // minutes
-			minimumPlayersOnline = 10;
-			dropRadius = 500; // 500m around an airport (including the main airport on Altis!)
-			dropAltitude = 100; // altitude of the drop
+			minimumPlayersOnline = 5;
+			dropRadius = 750; // 750m around an airport (including the main airport on Altis!)
+			dropAltitude = 1000; // altitude of the drop
 			markerTime = 10; // minutes
 
 			/*
