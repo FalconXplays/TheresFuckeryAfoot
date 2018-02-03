@@ -880,8 +880,11 @@ private _vehicles = [
 ["PortableHelipadLight_01_white_F", [14546.9, 16703.9, 18.0207], [-0.0285323, 0.999593, 0], [0, 0, 1], true],
 ["PortableHelipadLight_01_white_F", [14554.4, 16711.8, 18.0207], [-0.0285323, 0.999593, 0], [0, 0, 1], true],
 ["Land_ClutterCutter_large_F", [14554.6, 16704, 17.91], [-0.730626, 0.682778, 0], [0, 0, 1], true],
-["Land_PaperBox_01_open_boxes_F", [14634.2, 16771.6, 18.5412], [-0.217906, 0.97597, 0], [0, 0, 1], true]
+["Land_PaperBox_01_open_boxes_F", [14634.2, 16771.6, 18.5412], [-0.217906, 0.97597, 0], [0, 0, 1], true],
+["Land_ClutterCutter_small_F", [14584.1, 16910, 17.7589], [0, 0.999999, -0.0013439], [-0.0013439, 0.0013439, 0.999998], true],
+["Land_ClutterCutter_small_F", [15459.3, 15786.5, -9.36762], [0, 0.999872, -0.0159977], [0.0186628, 0.0159949, 0.999698], true]
 ];
+
 
 {
     private _vehicle = (_x select 0) createVehicle (_x select 1);
