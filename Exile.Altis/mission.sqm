@@ -1048,7 +1048,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=26;
+		items=20;
 
 		class Item0
 		{
@@ -1244,74 +1244,7 @@ class Mission
 			type="ExileTraderZoneIcon";
 		};
 
-
 		class Item18
-		{
-			position[]={14354.0,0,18960.1};
-			name="ConcreteMixerZoneAthira";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=750;
-			b=750;
-			drawBorder=1;
-		};
-		class Item19
-		{
-			position[]={14354.0,0,18960.1};
-			name="ConcreteMixerZoneAthiraIcon";
-			text="";
-			type="ExileConcreteMixerZoneIcon";
-		};
-
-
-		class Item20
-		{
-			position[]={18309.4,0,15575.0};
-			name="ConcreteMixerZoneCharkia";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=750;
-			b=750;
-			drawBorder=1;
-		};
-		class Item21
-		{
-			position[]={18309.4,0,15575.0};
-			name="ConcreteMixerZoneCharkiaIcon";
-			text="";
-			type="ExileConcreteMixerZoneIcon";
-		};
-
-		class Item22
-		{
-			position[]={11391.2,0,14259.5};
-			name="ConcreteMixerZoneAlikampos";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=750;
-			b=750;
-			drawBorder=1;
-		};
-		class Item23
-		{
-			position[]={11391.2,0,14259.5};
-			name="ConcreteMixerZoneAlikamposIcon";
-			text="";
-			type="ExileConcreteMixerZoneIcon";
-		};
-
-
-
-		class Item24
 		{
 			position[]={21845.1,0,20977.6};
 			name="ContaminatedZoneGhostHotel";
@@ -1324,7 +1257,7 @@ class Mission
 			b=400;
 			drawBorder=1;
 		};
-		class Item25
+		class Item19
 		{
 			position[]={21845.1,0,20977.6};
 			name="ContaminatedZoneGhostHotelIcon";
