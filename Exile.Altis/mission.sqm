@@ -1048,53 +1048,11 @@ class Mission
 	};
 	class Markers
 	{
-		items=20;
+		items=16;
 
 		class Item0
 		{
-			position[]={3874.3633,18.125629,13280.79};
-			name="SpawnKavala";
-			text="Kavala";
-			type="ExileSpawnZone";
-			markerType="ELLIPSE";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=500;
-			b=500;
-			drawBorder=1;
-		};
-		class Item1
-		{
-			position[]={3874.3633,18.125629,13280.79};
-			name="SpawnKavalaIcon";
-			text="";
-			type="ExileSpawnZoneIcon";
-		};
-
-		class Item2
-		{
-			position[]={9926.5293,12.364729,12083.253};
-			name="SpawnZaros";
-			text="Zaros";
-			type="ExileSpawnZone";
-			markerType="ELLIPSE";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=500;
-			b=500;
-			drawBorder=1;
-		};
-		class Item3
-		{
-			position[]={9926.5293,12.364729,12083.253};
-			name="SpawnZarosIcon";
-			text="";
-			type="ExileSpawnZoneIcon";
-		};
-
-		class Item4
-		{
-			position[]={20978.369,27.78056,7045.6055};
+			position[]={21588.35,0,6852.971};
 			name="SpawnSelekano";
 			text="Selekano";
 			type="ExileSpawnZone";
@@ -1105,21 +1063,20 @@ class Mission
 			b=500;
 			drawBorder=1;
 		};
-		class Item5
+		
+		class Item1
 		{
-			position[]={20978.369,27.78056,7045.6055};
+			position[]={21588.35,0,6852.971};
 			name="SpawnSelekanoIcon";
 			text="";
 			type="ExileSpawnZoneIcon";
 		};
 
-
-
-		class Item6
+		class Item2
 		{
-			position[]={17137.752,15.032475,12719.362};
-			name="SpawnPrygos";
-			text="Pyrgos";
+			position[]={21023.666,0,14725.078};
+			name="SpawnLimni";
+			text="Limni";
 			type="ExileSpawnZone";
 			markerType="ELLIPSE";
 			colorName="ColorBlack";
@@ -1129,17 +1086,17 @@ class Mission
 			drawBorder=1;
 		};
 
-		class Item7
+		class Item3
 		{
-			position[]={17137.752,15.032475,12719.362};
-			name="SpawnPrygosIcon";
+			position[]={21023.666,0,14725.078};
+			name="SpawnLimniIcon";
 			text="";
 			type="ExileSpawnZoneIcon";
 		};
-
-		class Item8
+		
+		class Item4
 		{
-			position[]={25713.313,20.344301,21329.576};
+			position[]={26197.248,0,20869.82};
 			name="SpawnSofia";
 			text="Sofia";
 			type="ExileSpawnZone";
@@ -1150,16 +1107,16 @@ class Mission
 			b=500;
 			drawBorder=1;
 		};
-		class Item9
+		
+		class Item5
 		{
-			position[]={25713.313,20.344301,21329.576};
+			position[]={26197.248,0,20869.82};
 			name="SpawnSofiaIcon";
 			text="";
 			type="ExileSpawnZoneIcon";
 		};
 
-
-		class Item10
+		class Item6
 		{
 			position[]={8612.5283,180.58038,18272.271};
 			name="SpawnSyrta";
@@ -1172,7 +1129,8 @@ class Mission
 			b=500;
 			drawBorder=1;
 		};
-		class Item11
+		
+		class Item7
 		{
 			position[]={8612.5283,180.58038,18272.271};
 			name="SpawnSyrtaIcon";
@@ -1180,12 +1138,11 @@ class Mission
 			type="ExileSpawnZoneIcon";
 		};
 
-
-		class Item12
+		class Item8
 		{
 			position[]={14599.966,22.349989,16797.193};
-			name="MafiaTraderCity";
-			text="Mafia";
+			name="NewHavenTraderCity";
+			text="New Haven";
 			type="ExileTraderZone";
 			markerType="ELLIPSE";
 			colorName="ColorBlack";
@@ -1194,7 +1151,8 @@ class Mission
 			b=175;
 			drawBorder=1;
 		};
-		class Item13
+		
+		class Item9
 		{
 			position[]={14599.966,22.349989,16797.193};
 			name="TraderCityMarkerIcon";
@@ -1202,49 +1160,51 @@ class Mission
 			type="ExileTraderZoneIcon";
 		};
 
+		class Item10
+		{
+			position[]={15446.123,0,15748.024};
+			name="DiversTraderZone";
+			text="Boats & Scuba Trader";
+			markerType="ELLIPSE";
+			type="ExileTraderZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=90;
+			b=90;
+			drawBorder=1;
+		};
+		
+		class Item11
+		{
+			position[]={15446.123,0,15748.024};
+			name="DiversTraderIcon";
+			text="";
+			type="ExileDiversTraderIcon";
+		};
+
+		class Item12
+		{
+			position[]={10798.251,0,10858.47};
+			name="TraderZonePVP";
+			text="War Zone Trader";
+			markerType="ELLIPSE";
+			type="ExileTraderZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			a=25;
+			b=25;
+			drawBorder=1;
+		};
+		
+		class Item13
+		{
+			position[]={10798.251,0,10858.47};
+			name="TraderZonePVPIcon";
+			text="";
+			type="ExileTraderZoneIcon";
+		};
+
 		class Item14
-		{
-			position[]={23334.605,4.0095582,24188.938};
-			name="TraderZoneSilderas";
-			text="Trader";
-			markerType="ELLIPSE";
-			type="ExileTraderZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=175;
-			b=175;
-			drawBorder=1;
-		};
-		class Item15
-		{
-			position[]={23334.605,4.0095582,24188.938};
-			name="TraderZoneSilderasIcon";
-			text="";
-			type="ExileTraderZoneIcon";
-		};
-
-		class Item16
-		{
-			position[]={2998.0603,3.7756021,18175.479};
-			name="TraderZoneFolia";
-			text="Trader";
-			markerType="ELLIPSE";
-			type="ExileTraderZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			a=175;
-			b=175;
-			drawBorder=1;
-		};
-		class Item17
-		{
-			position[]={2998.0603,3.7756021,18175.479};
-			name="TraderZoneFoliaIcon";
-			text="";
-			type="ExileTraderZoneIcon";
-		};
-
-		class Item18
 		{
 			position[]={21845.1,0,20977.6};
 			name="ContaminatedZoneGhostHotel";
@@ -1257,7 +1217,8 @@ class Mission
 			b=400;
 			drawBorder=1;
 		};
-		class Item19
+		
+		class Item15
 		{
 			position[]={21845.1,0,20977.6};
 			name="ContaminatedZoneGhostHotelIcon";
