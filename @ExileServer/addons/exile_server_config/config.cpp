@@ -4158,7 +4158,7 @@ class CfgSettings
 			permanentlyDeleteTime = 3;
 			
 			// Remove all territories (and contructions + containers in it) that were not paid after X days
-			territoryLifeTime = 7;
+			territoryLifeTime = 30;
 
 			// Remove all containers outside of territories that have not been used for X days
 			// Example: Tents
