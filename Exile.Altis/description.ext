@@ -68,28 +68,8 @@ showHUD[] =
 };
 
 #include "config.cpp"
-
-class CfgRemoteExec
-{
-
-    class Functions
-    {
-        mode = 1;
-        jip = 0;
-
-        class ExileServer_system_network_dispatchIncomingMessage
-        {
-            allowedTargets = 2;
-        };
-		class AdminToolkit_network_receiveRequest
-		{
-			allowedTargets = 2;
-		};
-    };
-
-    class Commands
-    {
-		mode = 0;
-		jip = 0;
-    };
-};
+#include "CfgRemoteExec.hpp"
+#include "infiSTAR_defines.hpp"
+#include "infiSTAR_AdminMenu.hpp"
+#include "infiSTAR_chat.hpp"
+#include "infiSTAR_KeyBinds.hpp"
